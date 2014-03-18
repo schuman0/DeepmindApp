@@ -1918,7 +1918,8 @@ button, .button {
       line-height: 1.4; }
   .panel.callout {
     margin-bottom: .25rem;
-    padding: .75rem; }
+    padding: .75rem;
+	padding-left:2.5rem;	}
     .panel.callout > :first-child {
       margin-top: 0; }
     .panel.callout > :last-child {
